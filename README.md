@@ -4,7 +4,7 @@
 
 별도의 설치나 계정 없이 마인드맵을 만들고, 완성한 작업을 `.mindmap` 파일 또는 PNG·SVG 이미지로 저장할 수 있습니다.
 
-![Open Mindmap](https://mindmap.chucode.com)
+[Open Mindmap](https://mindmap.chucode.com)
 
 ![Mindmap Lobby](docs/lobby.png)
 ![Mindmap Editor](docs/editor.png)
@@ -82,7 +82,7 @@ PowerPoint와 유사한 상황별 리본 메뉴를 통해 선택한 주제나 �
 
 배포된 웹사이트에 접속하여 **새 마인드맵**을 만들거나 `.mindmap` 파일을 열어 작업할 수 있습니다.
 
-![Open Mindmap](https://mindmap.chucode.com)
+[Open Mindmap](https://mindmap.chucode.com)
 
 ### 2. 로컬 개발 환경
 
